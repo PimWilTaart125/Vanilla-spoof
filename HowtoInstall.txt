@@ -1,0 +1,3 @@
+Zet de 2 .jar files in je mods folder
+In de ene .jar zit Fabric API
+En in de andere zit Vanilla Spoof
